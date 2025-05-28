@@ -1,5 +1,8 @@
 # 24b2464_AIC
 <br>
+I attempted question 2 only, because i got the notified of the opportunity late and had only 4-5 days to do the assignment , but i thought to give my best in such time so here it is the assignment
+<br>
+<br>
 this project uses a pretrained resnet50 model to classify images from the fashion-mnist dataset
 <br>
 <br>
