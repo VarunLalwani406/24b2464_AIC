@@ -26,8 +26,8 @@ Detailed documentation of analysis, experiments, and final comments :<br>
 4.  final comment <br>
 - training on gpu drastically reduced training time  <br> <br> 
 references : <br>
-1. pytorch - https://pytorch.org/docs/stable/index.html  <br>
-2. torchvision models - https://pytorch.org/vision/stable/models.html <br>
+1. pytorch  <br>
+2. torchvision models   <br>
 3. fashion-mnist dataset - https://drive.google.com/drive/folders/1qZNwYOW53GZYZjpmsSpZMBNh1PEQumnb  <br> <br>
 error handling <br>
 1.verifying csv files are correctly downloaded and in correct paths  <br>
