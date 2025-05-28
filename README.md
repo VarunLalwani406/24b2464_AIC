@@ -24,7 +24,19 @@ Detailed documentation of analysis, experiments, and final comments :<br>
 - fine tuned the last resnet block for 3 epochs with adjusted optimizer and learning rate scheduler <br>
 - monitored validation accuracy improvements after fine-tuning <br> <br>
 4.  final comment <br>
-- training on gpu drastically reduced training time  <br>
+- training on gpu drastically reduced training time  <br> <br> 
+references : <br>
+1. pytorch - https://pytorch.org/docs/stable/index.html  <br>
+2. torchvision models - https://pytorch.org/vision/stable/models.html <br>
+3. fashion-mnist dataset - https://drive.google.com/drive/folders/1qZNwYOW53GZYZjpmsSpZMBNh1PEQumnb  <br> <br>
+error handling <br>
+1.verifying csv files are correctly downloaded and in correct paths  <br>
+2.interrupt or restart kernel whenever stuck <br>
+
+
+
+
+
 
 
 
