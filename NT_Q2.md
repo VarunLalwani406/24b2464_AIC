@@ -1,4 +1,5 @@
 AI has always fascinated me , whether it be veo 3 by Google or chatgpt , but for its potential to solve real-world problems.My motivation for joining the Artificial Intelligence Community is to get myself into a collaborative environment where I can learn from experienced seniors, build, and grow with like-minded peers. I believe that this will challenge me to strive harder.
 <br>
 I have just begun exploring of machine learning and deep learning with assignment projects transfer learning with CNNs on Fashion-MNIST. While I’m still early in my AI journey, I have the enthusiasm to learn and am eager to improve and push my limits.
+<br>
 I will contribute by being proactive, curious, and collaborative , aiming to produce genuine research outputs.I will also contribute by working towards the Mission of the AI community to empower individuals to explore, learn, and collaborate in the rapidly evolving field of AI. I hope to work on participating in hackathons and competitions with the team.Helping the community to being people together with diverse backgrounds and expertise, to drive innovation and create positive impacts on society.
